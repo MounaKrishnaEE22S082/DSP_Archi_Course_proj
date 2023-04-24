@@ -2,5 +2,6 @@ err_file.txt
 verilog_testbench/got_outputs.txt
 verilog_testbench/ref_outputs.txt
 verilog_testbench/inputs.txt
+verilog_testbench/tb_Top_Top
 *.swp
 *.swo
